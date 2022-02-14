@@ -1,0 +1,21 @@
+{	"SampleFileName": "incomeData_08012020_120000.csv",
+	"LengthOfDateStampInFile": 9,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 14,
+	"ColName": {
+		"age" : "Integer",
+		"workclass": "varchar",
+		"fnlwgt": "Integer",
+		"education": "varchar",
+		"education-num": "Integer",
+		"marital-status": "varchar",
+		"occupation": "varchar",
+		"relationship": "varchar",
+		"race": "varchar",
+		"sex": "varchar",
+		"capital-gain": "Integer",
+		"capital-loss": "Integer",
+		"hours-per-week": "Integer",
+		"native-country": "varchar"
+	}
+}

@@ -1,0 +1,7 @@
+2020-02-12/17:30:01		Missing Values Validation Started!!
+2020-02-12/17:40:00		Missing Values Validation Started!!
+2020-02-12/17:41:35		Missing Values Validation Started!!
+2020-02-12/18:08:23		Missing Values Validation Started!!
+2020-02-13/20:14:49		Missing Values Validation Started!!
+2020-02-13/20:16:39		Missing Values Validation Started!!
+2020-02-13/20:16:40		Invalid Column for the file!! File moved to Bad Raw Folder :: incomeData_021119918_010420.csv

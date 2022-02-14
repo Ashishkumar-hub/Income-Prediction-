@@ -1,0 +1,290 @@
+2020-02-13/13:40:01		Start of Training
+2020-02-13/13:40:01		Entered the get_data method of the Data_Getter class
+2020-02-13/13:40:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-13/13:40:01		Entered the remove_columns method of the Preprocessor class
+2020-02-13/13:40:01		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-02-13/13:40:01		Entered the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/13:40:02		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/13:40:02		Entered the separate_label_feature method of the Preprocessor class
+2020-02-13/13:40:02		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-02-13/13:40:02		Entered the is_null_present method of the Preprocessor class
+2020-02-13/13:40:02		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-13/13:40:02		Entered the impute_missing_values method of the Preprocessor class
+2020-02-13/13:40:02		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-13/13:40:02		Entered the scale_numerical_columns method of the Preprocessor class
+2020-02-13/13:40:02		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-02-13/13:40:02		Entered the encode_categorical_columns method of the Preprocessor class
+2020-02-13/13:40:02		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2020-02-13/13:40:02		Unsuccessful End of Training
+2020-02-13/14:09:41		Start of Training
+2020-02-13/14:09:41		Entered the get_data method of the Data_Getter class
+2020-02-13/14:09:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-13/14:09:41		Entered the remove_columns method of the Preprocessor class
+2020-02-13/14:09:41		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-02-13/14:09:41		Entered the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/14:09:41		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/14:09:41		Entered the separate_label_feature method of the Preprocessor class
+2020-02-13/14:09:41		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-02-13/14:09:41		Entered the is_null_present method of the Preprocessor class
+2020-02-13/14:09:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-13/14:09:41		Entered the impute_missing_values method of the Preprocessor class
+2020-02-13/14:09:41		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-13/14:09:41		Entered the scale_numerical_columns method of the Preprocessor class
+2020-02-13/14:09:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-02-13/14:09:41		Entered the encode_categorical_columns method of the Preprocessor class
+2020-02-13/14:09:41		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2020-02-13/14:09:41		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2020-02-13/14:09:41		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2020-02-13/14:09:41		Entered the elbow_plot method of the KMeansClustering class
+2020-02-13/14:09:43		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-02-13/14:09:43		Entered the create_clusters method of the KMeansClustering class
+2020-02-13/14:09:43		Entered the save_model method of the File_Operation class
+2020-02-13/14:09:43		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-02-13/14:09:43		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-02-13/14:09:46		Entered the get_best_model method of the Model_Finder class
+2020-02-13/14:09:46		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/14:10:04		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/14:10:17		AUC for XGBoost:0.7646520146520145
+2020-02-13/14:10:23		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/14:10:36		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/14:10:44		AUC for RF:0.6346153846153846
+2020-02-13/14:10:52		Entered the save_model method of the File_Operation class
+2020-02-13/14:10:52		Model File XGBoost2 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/14:11:07		Entered the get_best_model method of the Model_Finder class
+2020-02-13/14:11:07		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/14:11:11		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/14:11:14		AUC for XGBoost:0.5
+2020-02-13/14:11:14		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/14:11:14		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/14:11:14		AUC for RF:0.5
+2020-02-13/14:11:14		Entered the save_model method of the File_Operation class
+2020-02-13/14:11:14		Model File NaiveBayes3 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/14:11:16		Entered the get_best_model method of the Model_Finder class
+2020-02-13/14:11:16		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/14:11:21		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/14:11:22		AUC for XGBoost:0.9459459459459459
+2020-02-13/14:11:22		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/14:11:23		Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/14:11:23		AUC for RF:0.972972972972973
+2020-02-13/14:11:23		Entered the save_model method of the File_Operation class
+2020-02-13/14:11:23		Model File NaiveBayes0 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/14:11:24		Entered the get_best_model method of the Model_Finder class
+2020-02-13/14:11:24		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/14:11:28		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/14:11:29		AUC for XGBoost:0.8
+2020-02-13/14:11:29		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/14:11:30		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/14:11:30		AUC for RF:0.8
+2020-02-13/14:11:30		Entered the save_model method of the File_Operation class
+2020-02-13/14:11:30		Model File NaiveBayes1 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/14:11:31		Successful End of Training
+2020-02-13/16:41:05		Start of Training
+2020-02-13/16:41:05		Entered the get_data method of the Data_Getter class
+2020-02-13/16:41:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-13/16:41:05		Entered the remove_columns method of the Preprocessor class
+2020-02-13/16:41:05		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-02-13/16:41:05		Entered the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/16:41:05		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/16:41:05		Entered the separate_label_feature method of the Preprocessor class
+2020-02-13/16:41:05		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-02-13/16:41:05		Entered the is_null_present method of the Preprocessor class
+2020-02-13/16:41:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-13/16:41:05		Entered the impute_missing_values method of the Preprocessor class
+2020-02-13/16:41:05		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-13/16:41:05		Entered the scale_numerical_columns method of the Preprocessor class
+2020-02-13/16:41:05		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-02-13/16:41:05		Entered the encode_categorical_columns method of the Preprocessor class
+2020-02-13/16:41:05		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2020-02-13/16:41:05		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2020-02-13/16:41:05		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2020-02-13/16:41:05		Entered the elbow_plot method of the KMeansClustering class
+2020-02-13/16:41:06		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2020-02-13/16:41:06		Entered the create_clusters method of the KMeansClustering class
+2020-02-13/16:41:06		Entered the save_model method of the File_Operation class
+2020-02-13/16:41:06		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-02-13/16:41:06		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2020-02-13/16:41:10		Entered the get_best_model method of the Model_Finder class
+2020-02-13/16:41:10		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:41:18		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:41:36		AUC for XGBoost:0.975
+2020-02-13/16:41:37		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:41:37		Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:46:44		AUC for RF:0.725
+2020-02-13/16:46:47		Entered the save_model method of the File_Operation class
+2020-02-13/16:46:47		Model File XGBoost3 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/16:46:48		Entered the get_best_model method of the Model_Finder class
+2020-02-13/16:46:48		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:46:52		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:46:53		AUC for XGBoost:0.5
+2020-02-13/16:46:53		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:46:54		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:46:54		AUC for RF:0.5
+2020-02-13/16:46:54		Entered the save_model method of the File_Operation class
+2020-02-13/16:46:54		Model File NaiveBayes4 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/16:46:55		Entered the get_best_model method of the Model_Finder class
+2020-02-13/16:46:55		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:47:00		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:47:01		AUC for XGBoost:0.7996632996632996
+2020-02-13/16:47:01		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:47:02		Naive Bayes best params: {'var_smoothing': 0.01}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:47:02		AUC for RF:0.6178451178451179
+2020-02-13/16:47:02		Entered the save_model method of the File_Operation class
+2020-02-13/16:47:02		Model File XGBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/16:47:03		Entered the get_best_model method of the Model_Finder class
+2020-02-13/16:47:03		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:47:07		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:47:08		AUC for XGBoost:1.0
+2020-02-13/16:47:08		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:47:08		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:47:08		AUC for RF:1.0
+2020-02-13/16:47:08		Entered the save_model method of the File_Operation class
+2020-02-13/16:47:08		Model File NaiveBayes0 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/16:47:10		Entered the get_best_model method of the Model_Finder class
+2020-02-13/16:47:10		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:47:14		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/16:47:15		AUC for XGBoost:0.6
+2020-02-13/16:47:15		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:47:16		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/16:47:16		AUC for RF:0.8
+2020-02-13/16:47:16		Entered the save_model method of the File_Operation class
+2020-02-13/16:47:16		Model File NaiveBayes2 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/16:47:17		Successful End of Training
+2020-02-13/20:12:48		Start of Training
+2020-02-13/20:12:48		Entered the get_data method of the Data_Getter class
+2020-02-13/20:12:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-13/20:12:48		Entered the remove_columns method of the Preprocessor class
+2020-02-13/20:12:48		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-02-13/20:12:48		Entered the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/20:12:48		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/20:12:48		Entered the separate_label_feature method of the Preprocessor class
+2020-02-13/20:12:48		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-02-13/20:12:48		Entered the is_null_present method of the Preprocessor class
+2020-02-13/20:12:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-13/20:12:48		Entered the impute_missing_values method of the Preprocessor class
+2020-02-13/20:12:48		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-13/20:12:48		Entered the scale_numerical_columns method of the Preprocessor class
+2020-02-13/20:12:48		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-02-13/20:12:48		Entered the encode_categorical_columns method of the Preprocessor class
+2020-02-13/20:12:48		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2020-02-13/20:12:48		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2020-02-13/20:12:48		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2020-02-13/20:12:48		Entered the elbow_plot method of the KMeansClustering class
+2020-02-13/20:12:49		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-02-13/20:12:49		Entered the create_clusters method of the KMeansClustering class
+2020-02-13/20:12:49		Entered the save_model method of the File_Operation class
+2020-02-13/20:12:49		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-02-13/20:12:49		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-02-13/20:12:49		Entered the get_best_model method of the Model_Finder class
+2020-02-13/20:12:49		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:12:57		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:12:57		AUC for XGBoost:0.7897727272727273
+2020-02-13/20:12:57		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:12:57		Naive Bayes best params: {'var_smoothing': 0.01}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:12:57		AUC for RF:0.6704545454545454
+2020-02-13/20:12:57		Entered the save_model method of the File_Operation class
+2020-02-13/20:12:57		Model File XGBoost2 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/20:12:57		Entered the get_best_model method of the Model_Finder class
+2020-02-13/20:12:57		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:13:00		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:13:00		AUC for XGBoost:0.5
+2020-02-13/20:13:00		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:13:00		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:13:00		AUC for RF:0.5
+2020-02-13/20:13:00		Entered the save_model method of the File_Operation class
+2020-02-13/20:13:00		Model File NaiveBayes3 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/20:13:00		Entered the get_best_model method of the Model_Finder class
+2020-02-13/20:13:00		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:13:04		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:13:04		AUC for XGBoost:0.9605263157894737
+2020-02-13/20:13:04		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:13:05		Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:13:05		AUC for RF:0.9605263157894737
+2020-02-13/20:13:05		Entered the save_model method of the File_Operation class
+2020-02-13/20:13:05		Model File NaiveBayes1 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/20:13:05		Entered the get_best_model method of the Model_Finder class
+2020-02-13/20:13:05		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:13:08		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:13:08		AUC for XGBoost:0.75
+2020-02-13/20:13:08		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:13:08		Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:13:08		AUC for RF:0.8333333333333334
+2020-02-13/20:13:08		Entered the save_model method of the File_Operation class
+2020-02-13/20:13:08		Model File NaiveBayes0 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/20:13:08		Successful End of Training
+2020-02-13/20:14:50		Start of Training
+2020-02-13/20:14:50		Entered the get_data method of the Data_Getter class
+2020-02-13/20:14:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-13/20:14:50		Entered the remove_columns method of the Preprocessor class
+2020-02-13/20:14:50		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-02-13/20:14:50		Entered the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/20:14:50		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/20:14:50		Entered the separate_label_feature method of the Preprocessor class
+2020-02-13/20:14:50		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-02-13/20:14:50		Entered the is_null_present method of the Preprocessor class
+2020-02-13/20:14:50		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-13/20:14:50		Entered the scale_numerical_columns method of the Preprocessor class
+2020-02-13/20:14:50		Exception occured in scale_numerical_columns method of the Preprocessor class. Exception message:  at least one array or dtype is required
+2020-02-13/20:14:50		scaling for numerical columns Failed. Exited the scale_numerical_columns method of the Preprocessor class
+2020-02-13/20:14:50		Unsuccessful End of Training
+2020-02-13/20:40:56		Start of Training
+2020-02-13/20:40:57		Entered the get_data method of the Data_Getter class
+2020-02-13/20:40:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-13/20:40:59		Entered the remove_columns method of the Preprocessor class
+2020-02-13/20:40:59		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-02-13/20:41:00		Entered the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/20:41:00		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2020-02-13/20:41:06		Entered the separate_label_feature method of the Preprocessor class
+2020-02-13/20:41:06		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-02-13/20:41:08		Entered the is_null_present method of the Preprocessor class
+2020-02-13/20:41:08		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-13/20:41:11		Entered the impute_missing_values method of the Preprocessor class
+2020-02-13/20:41:11		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-13/20:41:12		Entered the scale_numerical_columns method of the Preprocessor class
+2020-02-13/20:41:12		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-02-13/20:41:13		Entered the encode_categorical_columns method of the Preprocessor class
+2020-02-13/20:41:13		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2020-02-13/20:41:16		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2020-02-13/20:41:17		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2020-02-13/20:41:19		Entered the elbow_plot method of the KMeansClustering class
+2020-02-13/20:42:45		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-02-13/20:43:10		Entered the create_clusters method of the KMeansClustering class
+2020-02-13/20:43:19		Entered the save_model method of the File_Operation class
+2020-02-13/20:43:19		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-02-13/20:43:19		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-02-13/20:43:40		Entered the get_best_model method of the Model_Finder class
+2020-02-13/20:43:40		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:53:04		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/20:53:27		AUC for XGBoost:0.8750397181368511
+2020-02-13/20:53:27		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:53:31		Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/20:53:31		AUC for RF:0.5808899413656968
+2020-02-13/20:53:31		Entered the save_model method of the File_Operation class
+2020-02-13/20:53:31		Model File XGBoost0 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/20:53:45		Entered the get_best_model method of the Model_Finder class
+2020-02-13/20:53:45		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/21:04:34		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/21:04:34		AUC for XGBoost:0.7868426056866469
+2020-02-13/21:04:34		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/21:04:38		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/21:04:38		AUC for RF:0.6939577916709514
+2020-02-13/21:04:38		Entered the save_model method of the File_Operation class
+2020-02-13/21:04:38		Model File XGBoost1 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/21:04:50		Entered the get_best_model method of the Model_Finder class
+2020-02-13/21:04:50		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/21:05:58		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/21:05:58		AUC for XGBoost:0.9602612927113086
+2020-02-13/21:05:58		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/21:05:59		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/21:05:59		AUC for RF:0.7521950703480378
+2020-02-13/21:05:59		Entered the save_model method of the File_Operation class
+2020-02-13/21:05:59		Model File XGBoost2 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/21:07:25		Entered the get_best_model method of the Model_Finder class
+2020-02-13/21:07:25		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/21:07:28		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2020-02-13/21:07:28		Accuracy for XGBoost:1.0
+2020-02-13/21:07:28		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/21:07:29		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2020-02-13/21:07:29		Accuracy for NB:1.0
+2020-02-13/21:07:29		Entered the save_model method of the File_Operation class
+2020-02-13/21:07:29		Model File NaiveBayes3 saved. Exited the save_model method of the Model_Finder class
+2020-02-13/21:07:33		Successful End of Training

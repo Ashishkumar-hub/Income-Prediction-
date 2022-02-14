@@ -1,0 +1,74 @@
+2020-02-12/17:29:08		Valid File name!! File moved to GoodRaw Folder :: incomeData_02112019_121136.csv
+2020-02-12/17:40:00		Valid File name!! File moved to GoodRaw Folder :: incomeData_02112019_121136.csv
+2020-02-12/17:41:35		Valid File name!! File moved to GoodRaw Folder :: incomeData_02112019_121136.csv
+2020-02-12/18:08:23		Valid File name!! File moved to GoodRaw Folder :: incomeData_02112019_121136.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119910_010212.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119911_010213.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119912_010214.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119913_010.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119913_010215.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119914_010216.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119915_0.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119915_010217.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119916_010218.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119917_010219.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119918_010220.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119918_010420.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119919_010221.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119920_010222.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119921_010223.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119922_010224.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119923_010225.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119924_010226.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119925_010227.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119926_010228.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119927_010229.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119928_010230.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119929_010231.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119930_010232.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119931_010233.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119932_010234.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119942_010218.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119943_010219.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119944_010221.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119961_010208.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119971_010209.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119981_010210.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119991_010211.csv
+2020-02-13/20:14:49		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021120191_121136.csv
+2020-02-13/20:16:19		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119910_010212.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119911_010213.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119912_010214.csv
+2020-02-13/20:16:19		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119913_010.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119913_010215.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119914_010216.csv
+2020-02-13/20:16:19		Invalid File Name!! File moved to Bad Raw Folder :: incomeData_021119915_0.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119915_010217.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119916_010218.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119917_010219.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119918_010220.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119918_010420.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119919_010221.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119920_010222.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119921_010223.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119922_010224.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119923_010225.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119924_010226.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119925_010227.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119926_010228.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119927_010229.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119928_010230.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119929_010231.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119930_010232.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119931_010233.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119932_010234.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119942_010218.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119943_010219.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119944_010221.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119961_010208.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119971_010209.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119981_010210.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021119991_010211.csv
+2020-02-13/20:16:19		Valid File name!! File moved to GoodRaw Folder :: incomeData_021120191_121136.csv

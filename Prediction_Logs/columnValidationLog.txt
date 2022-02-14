@@ -1,0 +1,48 @@
+2020-02-13/14:55:32		Column Length Validation Started!!
+2020-02-13/14:55:32		Column Length Validation Completed!!
+2020-02-13/16:24:01		Column Length Validation Started!!
+2020-02-13/16:24:34		Column Length Validation Completed!!
+2020-02-13/16:26:49		Column Length Validation Started!!
+2020-02-13/16:26:49		Column Length Validation Completed!!
+2020-02-13/16:29:22		Column Length Validation Started!!
+2020-02-13/16:29:22		Column Length Validation Completed!!
+2020-02-13/16:34:10		Column Length Validation Started!!
+2020-02-13/16:34:10		Column Length Validation Completed!!
+2020-02-13/16:39:24		Column Length Validation Started!!
+2020-02-13/16:39:24		Column Length Validation Completed!!
+2020-02-13/16:48:03		Column Length Validation Started!!
+2020-02-13/16:48:03		Column Length Validation Completed!!
+2020-02-13/21:08:48		Column Length Validation Started!!
+2020-02-13/21:08:48		Column Length Validation Completed!!
+2020-02-13/21:18:09		Column Length Validation Started!!
+2020-02-13/21:18:10		Column Length Validation Completed!!
+2020-02-13/21:30:02		Column Length Validation Started!!
+2020-02-13/21:30:03		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119942_010218.csv
+2020-02-13/21:30:03		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119943_010219.csv
+2020-02-13/21:30:03		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119944_010221.csv
+2020-02-13/21:30:03		Column Length Validation Completed!!
+2020-04-10/17:14:17		Column Length Validation Started!!
+2020-04-10/17:14:18		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119942_010218.csv
+2020-04-10/17:14:18		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119943_010219.csv
+2020-04-10/17:14:18		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119944_010221.csv
+2020-04-10/17:14:18		Column Length Validation Completed!!
+2022-02-12/19:34:21		Column Length Validation Started!!
+2022-02-12/19:34:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119942_010218.csv
+2022-02-12/19:34:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119943_010219.csv
+2022-02-12/19:34:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119944_010221.csv
+2022-02-12/19:34:23		Column Length Validation Completed!!
+2022-02-12/19:51:20		Column Length Validation Started!!
+2022-02-12/19:51:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119942_010218.csv
+2022-02-12/19:51:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119943_010219.csv
+2022-02-12/19:51:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119944_010221.csv
+2022-02-12/19:51:21		Column Length Validation Completed!!
+2022-02-12/20:24:18		Column Length Validation Started!!
+2022-02-12/20:24:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119942_010218.csv
+2022-02-12/20:24:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119943_010219.csv
+2022-02-12/20:24:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119944_010221.csv
+2022-02-12/20:24:20		Column Length Validation Completed!!
+2022-02-12/20:24:25		Column Length Validation Started!!
+2022-02-12/20:24:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119942_010218.csv
+2022-02-12/20:24:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119943_010219.csv
+2022-02-12/20:24:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119944_010221.csv
+2022-02-12/20:24:26		Column Length Validation Completed!!
